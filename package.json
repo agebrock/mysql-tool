@@ -1,6 +1,6 @@
-{
+i{
   "name": "mysql-tool",
-  "version":"0.0.1",
+  "version":"0.0.2",
   "author":"christoph.hagenbrock@googlemail.com",
   "dependencies": {
     "bluebird": "^3.2.1",

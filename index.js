@@ -77,7 +77,7 @@ var MysqlDriver = Base.extend({
       case type.OBJECT:
         return 'JSON';
     }
-    console.log(spec.type);
+
     return this._super(spec.type);
   },
 
